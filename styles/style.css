@@ -117,6 +117,33 @@ body {
 .banner-b {
 	margin-bottom: 102px;
 }
+.txtimage {
+	display: inline-block;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+	position: absolute;
+	top: 28px;
+	left: 40px;
+}
+.txtimage1 {
+	display: inline-block;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+	position: absolute;
+	top: 194px;
+	right: 308px;
+	text-align: center;
+}
+.image-wraper {
+	display: inline-block;
+	position: relative;
+}
+.image-wraper1 {
+	display: inline-block;
+	position: relative;
+}
 /*footer styles*/
 .footer {
 	display: inline-block;
